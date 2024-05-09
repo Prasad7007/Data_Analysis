@@ -16,3 +16,7 @@ Before you run this project, you need to install several Python libraries. You c
 
 ```bash
 pip install pandas matplotlib seaborn numpy
+
+after this create Data folder and download Amazon product sales dataset from kaggle add dataset in Data folder
+
+link: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
